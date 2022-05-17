@@ -1,0 +1,24 @@
+{
+    "extends": "../tsconfig.base",
+    "compilerOptions": {
+        "removeComments": true,
+        "module": "CommonJS",
+        // "moduleResolution": "node",
+        // "traceResolution": true,
+        // "baseUrl": "./modules"
+    },
+    // "paths": {
+    //     "my_lib": ["./customPath"]
+    // },
+    // "rootDir": [
+    //     "modules",
+    //     "src",
+    //     "ts/modules",
+    // ],
+    // "files": [
+    //     "app.ts"
+    // ]
+    // "include": [
+    //     "./**/*"
+    // ]
+}
